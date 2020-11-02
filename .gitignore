@@ -1,0 +1,135 @@
+Last login: Mon Nov  2 12:34:39 on ttys000
+jeantad@Jeans-MacBook-Pro stellar-parameters-NN % cd ..
+jeantad@Jeans-MacBook-Pro Desktop % cd new_crab/background
+jeantad@Jeans-MacBook-Pro background % clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jeantad@Jeans-MacBook-Pro background % vim .gitignore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  1 # Byte-compiled / optimized / DLL files
+  2 __pycache__/
+  3 *.py[cod]
+  4 *$py.class
+  5 .DS_Store
+  6 
+  7 # C extensions
+  8 *.so
+  9 
+ 10 # Distribution / packaging
+ 11 .Python
+ 12 .pyc
+ 13 build/
+ 14 develop-eggs/
+ 15 dist/
+ 16 downloads/
+ 17 eggs/
+ 18 .eggs/
+ 19 lib/
+ 20 lib64/
+ 21 parts/
+ 22 sdist/
+ 23 var/
+ 24 wheels/
+ 25 pip-wheel-metadata/
+ 26 share/python-wheels/
+ 27 *.egg-info/
+ 28 .installed.cfg
+ 29 *.egg
+ 30 MANIFEST
+ 31 
+ 32 # PyInstaller
+ 33 #  Usually these files are written by a python script from a template
+ 34 #  before PyInstaller builds the exe, so as to inject date/other infos into     it.
+ 35 *.manifest
+ 36 *.spec
+ 37 
+ 38 # Installer logs
+ 39 pip-log.txt
+ 40 pip-delete-this-directory.txt
+ 41 
+ 42 # Unit test / coverage reports
+ 43 htmlcov/
+".gitignore" 134L, 1826C                                      1,1           Top
+
